@@ -1,0 +1,45 @@
+h1{
+    font-family: "Gill Sana", "Gill Sans MT", Calibri
+    text-align: center;
+    font-size: 50px;
+    color: black;
+ }
+body {
+   background-color: rgb(232, 229, 229);
+   font-size: 30px;
+   font: Cambria, cochin, Georgia, Times, "Times New Roman", serif;
+   color: black;
+ }
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+.paragraph {
+   font-size: 30px;
+   font: "Times New Roman";
+   color: rgb(48, 47, 47);
+}
+div{
+   border: 3px solid black;
+   position: absolute;
+ }
+
+.navbarleft {
+   top:5px;
+   left: 5px;
+   right: 50.2%;
+   height: 100px;
+  }
+.navbarright {
+   top:5px;
+   left: 50.2%;
+   right: 5px;
+   height: 100px;
+}
+.mainpanel {
+   top: 114px;
+   left: 5px;
+   right: 5px;
+   height: 1675px;
+}
